@@ -105,7 +105,7 @@
             return angular.copy(eventsArray[index]);
         }
 
-
+        
         return service;
 
     }
